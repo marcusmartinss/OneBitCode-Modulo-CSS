@@ -1,0 +1,12 @@
+h1{
+    color: purple;
+    border: 2px dashed yellow; 
+}
+body{
+    background-image: url('https://gifts.worldwildlife.org/gift-center/Images/multistepcart/cart-koala-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    color: green;
+}
