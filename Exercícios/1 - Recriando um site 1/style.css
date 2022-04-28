@@ -1,0 +1,18 @@
+body{
+    background-color: #2C3E50;
+    color: white;
+}
+
+h2{
+    border: 2px solid;
+    background-color: #F1C40F;
+    color: black;
+}
+
+h3{
+    color: #F1C40F;
+}
+
+.text-red{
+    color: #E74C3C;
+}
